@@ -58,17 +58,13 @@ body{
 
  .head p{
     position: absolute;
-    top: 2vmin;
+    top: -2vmin;
     left: 4vmin;
-   font-size: 40px;
-
-  
-    
+    font-size: 40px;
 }
-
 #winner{
   position: absolute;
   top: -2vmin;
-  left: 85vmin;
+  left: 68vmin;
   font-size: 7vmin;
 }
